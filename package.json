@@ -1,0 +1,15 @@
+{
+  "name": "materials-cost-utils",
+  "version": "1.0.0",
+  "description": "Utilities for the Materials Cost Calc App",
+  "main": "bar.js",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo Lopez",
+  "license": "ISC"
+}
